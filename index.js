@@ -52,4 +52,6 @@ var outterFunction = function(){
     return  5 + a
   }
 }
-var innerFunction = function()
+var innerFunction = outterFunction()
+innerFunction(3)
+var innerAnswer = innerFunction
