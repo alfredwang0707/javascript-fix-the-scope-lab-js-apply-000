@@ -23,6 +23,7 @@ function yourAnimal() {
   // How can we make sure that this function
   // and the above function both pass?
   // P.S.: Hard-coding 'cat' below will not work
+  let animal = "cat";
   return animal
 }
 
