@@ -36,7 +36,8 @@ function add2(n) {
   return n + two
 
 }
-
+/* The final task of this lab is to figure out what code is needed at the end. The
+provided code does not need to change, but something else needs to be added. */
 var funkyFunction = function() {
   return function() {
     return "FUNKY!"
