@@ -32,10 +32,9 @@ The third function in `index.js`, `add2()` takes in a number and returns that
 number plus two. Well, at least, that is what it _should_ do. What is wrong? */
 
 function add2(n) {
+  const two = 2
   return n + two
 
-  // Feel free to move things around!
-  const two = 2
 }
 
 var funkyFunction = function() {
