@@ -26,6 +26,10 @@ function yourAnimal() {
   let animal = "cat";
   return animal
 }
+ /*`add2`
+
+The third function in `index.js`, `add2()` takes in a number and returns that
+number plus two. Well, at least, that is what it _should_ do. What is wrong? */
 
 function add2(n) {
   return n + two
