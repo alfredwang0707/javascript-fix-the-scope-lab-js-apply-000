@@ -1,4 +1,4 @@
-### `myAnimal` and `yourAnimal`
+/*### `myAnimal` and `yourAnimal`
 
 The first two functions, `myAnimal` and `yourAnimal`, both return a variable
 `animal`, but the tests for the two expect different values. The tests are
@@ -7,7 +7,7 @@ designed so that:
 - you cannot hard code `return 'cat'`
 - `yourAnimal` _must_ return a variable named `animal`.
 - `yourAnimal` should not reassign the existing `animal` declared on the first
-  line (in the _global scope_).
+  line (in the _global scope_). */
 
 
 var animal = 'dog'
